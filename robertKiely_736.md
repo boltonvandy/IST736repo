@@ -1,1 +1,0 @@
-Hi I'm robert kiely. I like to hike, I'm in the applied data science program, I work at pratt and whitney as a data analyst. 
